@@ -139,7 +139,7 @@ Droneyschedule_flight --type "surveillance" --time "06:00" --repeat "daily"
 Here is some pictures of the first drones prototypes: 
 ##
 
-### Stander filming drone
+### Standard filming drone
 
 ![Alt text](https://aerialsoutheast.com/wp-content/uploads/2019/07/How-Drones-Have-Changed-the-Commercial-Photography-Landscape-1400x500.jpg)
 
